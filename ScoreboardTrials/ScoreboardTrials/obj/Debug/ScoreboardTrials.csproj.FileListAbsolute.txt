@@ -1,0 +1,47 @@
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe.config
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csprojResolveAssemblyReference.cache
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.Properties.Resources.resources
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csproj.GenerateResource.Cache
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.pdb
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.exe
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.pdb
+C:\Users\bkhogan2\Documents\Visual Studio 2013\Projects\Assignments\Database Lab\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.frmBaseballSimulator.resources
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe.config
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.exe
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.pdb
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.pdb
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csprojResolveAssemblyReference.cache
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.frmBaseballSimulator.resources
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.Properties.Resources.resources
+C:\Users\bkhogan2\Desktop\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csproj.GenerateResource.Cache
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe.config
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.exe
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.pdb
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.pdb
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csprojResolveAssemblyReference.cache
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.frmBaseballSimulator.resources
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.Properties.Resources.resources
+C:\Users\bkhogan2\Documents\Baseball Simulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csproj.GenerateResource.Cache
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe.config
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.pdb
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csprojResolveAssemblyReference.cache
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.frmBaseballSimulator.resources
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.Properties.Resources.resources
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csproj.GenerateResource.Cache
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csproj.CoreCompileInputs.cache
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.exe
+C:\dev\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.pdb
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe.config
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.exe
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\bin\Debug\ScoreboardTrials.pdb
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csprojAssemblyReference.cache
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.frmBaseballSimulator.resources
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.Properties.Resources.resources
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csproj.GenerateResource.cache
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.csproj.CoreCompileInputs.cache
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.exe
+C:\Users\Brian\projects\BaseballSimulator\ScoreboardTrials\ScoreboardTrials\obj\Debug\ScoreboardTrials.pdb
